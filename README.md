@@ -1,1 +1,7 @@
-# magento
+# Magento
+
+...
+
+## License
+
+[MIT](./LICENSE)
